@@ -1,6 +1,6 @@
 # 编写健壮、易维护、可扩展的CSS
 
-> 本书翻译自[Harry Roberts](http://csswizardry.com/work/)的[《CSS {guide lines}》](http://cssguidelin.es/)，你不必完全遵循本书所定制的规范，重要的是遵循其中的思想，定制适合自己团队的规范。
+> 本书翻译自[Harry Roberts](http://csswizardry.com/work/)的[《CSS Guideline》](http://cssguidelin.es/)，你不必完全遵循本书所定制的规范，重要的是遵循其中的思想，定制适合自己团队的规范。
 
 CSS不算是一个优雅地语言，学起来很简单，上手也容易，但是当你的代码稍微多一点，你就会发现问题百出。本书给出了一些建议和参考，希望能够帮你更加合理地组织CSS代码。
 
